@@ -13,7 +13,7 @@
 }
 
 #root {
-	background: #1b2730;
+	background: #050f1c;
 	height: 100vh;
 	min-height: 700px;
 	min-width: 400px;
@@ -97,7 +97,7 @@
 	width: 200px;
 	height: 200px;
 	border-radius: 50%;
-	background: linear-gradient(to right, #3ca4fc, #c865fb);
+	background: linear-gradient(to right, #3ca4fc, #8f9baadf);
 	margin: 20px 0;
 	box-shadow: 0 0 100px rgba(206, 232, 255, 40%);
 	position: relative;
